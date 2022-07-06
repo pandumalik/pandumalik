@@ -20,8 +20,8 @@
 
 Here are some ideas to get you started:
  -->
-- 🔭 I’m currently working on PT. Transportasi Jakarta
-- 🌱 I’m currently learning Information Technology Architecture
+- 🔭 currently working on BFI Indonesia
+- 🌱 currently learning Information Technology Architecture
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
